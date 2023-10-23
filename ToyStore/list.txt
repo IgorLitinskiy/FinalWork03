@@ -1,0 +1,50 @@
+id:  1  Hot Wheels        weight: 40  quantity: 35
+id:  2  Футбольный мяч    weight: 50  quantity: 66
+id:  4  Велосипед         weight: 42  quantity: 74
+id:  0  Кукла Barbie      weight: 32  quantity: 22
+id:  3  Конструктор лего  weight: 33  quantity: 23
+id:  1  Hot Wheels        weight: 40  quantity: 35
+id:  3  Конструктор лего  weight: 33  quantity: 23
+id:  2  Футбольный мяч    weight: 50  quantity: 66
+id:  4  Велосипед         weight: 42  quantity: 74
+id:  0  Кукла Barbie      weight: 32  quantity: 22
+id:  1  Hot Wheels        weight: 40  quantity: 35
+id:  4  Велосипед         weight: 42  quantity: 74
+id:  2  Футбольный мяч    weight: 50  quantity: 66
+id:  3  Конструктор лего  weight: 33  quantity: 23
+id:  0  Кукла Barbie      weight: 32  quantity: 22
+id:  2  Футбольный мяч    weight: 50  quantity: 66
+id:  0  Кукла Barbie      weight: 32  quantity: 22
+id:  1  Hot Wheels        weight: 40  quantity: 35
+id:  3  Конструктор лего  weight: 33  quantity: 23
+id:  4  Велосипед         weight: 42  quantity: 74
+id:  4  Велосипед         weight: 42  quantity: 74
+id:  2  Футбольный мяч    weight: 50  quantity: 66
+id:  1  Hot Wheels        weight: 40  quantity: 35
+id:  3  Конструктор лего  weight: 33  quantity: 23
+id:  0  Кукла Barbie      weight: 32  quantity: 22
+id:  3  Конструктор лего  weight: 33  quantity: 23
+id:  2  Футбольный мяч    weight: 50  quantity: 66
+id:  0  Кукла Barbie      weight: 32  quantity: 22
+id:  1  Hot Wheels        weight: 40  quantity: 35
+id:  4  Велосипед         weight: 42  quantity: 74
+id:  0  Кукла Barbie      weight: 32  quantity: 22
+id:  3  Конструктор лего  weight: 33  quantity: 23
+id:  4  Велосипед         weight: 42  quantity: 74
+id:  1  Hot Wheels        weight: 40  quantity: 35
+id:  2  Футбольный мяч    weight: 50  quantity: 66
+id:  2  Футбольный мяч    weight: 50  quantity: 66
+id:  4  Велосипед         weight: 42  quantity: 74
+id:  3  Конструктор лего  weight: 33  quantity: 23
+id:  0  Кукла Barbie      weight: 32  quantity: 22
+id:  1  Hot Wheels        weight: 40  quantity: 35
+id:  0  Кукла Barbie      weight: 32  quantity: 22
+id:  4  Велосипед         weight: 42  quantity: 74
+id:  2  Футбольный мяч    weight: 50  quantity: 66
+id:  1  Hot Wheels        weight: 40  quantity: 35
+id:  3  Конструктор лего  weight: 33  quantity: 23
+id:  4  Велосипед         weight: 42  quantity: 74
+id:  3  Конструктор лего  weight: 33  quantity: 23
+id:  0  Кукла Barbie      weight: 32  quantity: 22
+id:  1  Hot Wheels        weight: 40  quantity: 35
+id:  2  Футбольный мяч    weight: 50  quantity: 66
